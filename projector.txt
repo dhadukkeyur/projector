@@ -1,12 +1,12 @@
 {
 "error":false,
 "music":true,
-"DownloadMusicMp3":true,
+"HDProjector":true,
 
-"VideoDownloadBannerParth":"ca-app-pub-3940256099942544/6300978111",
-"VideoDownloadParthIntertial":"ca-app-pub-3940256099942544/1033173712",
-"VideoDownloadParthNative":"ca-app-pub-3940256099942544/2247696110",
-"VideoDownloadParthOpenads":"ca-app-pub-3940256099942544/3419835294",
+"HDProjectorBanner":"ca-app-pub-3940256099942544/6300978111",
+"HDProjectorIntertial":"ca-app-pub-3940256099942544/1033173712",
+"HDProjectorNative":"ca-app-pub-3940256099942544/2247696110",
+"HDProjectorOPEN":"ca-app-pub-3940256099942544/3419835294",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",
