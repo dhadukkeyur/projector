@@ -1,0 +1,21 @@
+{
+"error":false,
+"music":true,
+"DownloadMusicMp3":true,
+
+"VideoDownloadBannerParth":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_TOP_AD",
+"VideoDownloadParthIntertial":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_INTERSTITIAL",
+"VideoDownloadParthNative":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_NATIVE_AD",
+"VideoDownloadParthOpenads":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_OPEN_AD",
+"data": [
+{
+"name":"VidMedia Video Downloader- Fast Video Downloader",
+"playstorLink":"https://play.google.com/store/apps/details?id=com.videodownloaderfast2021.provideostatusdownloader.hdbestvideodownloader",
+"imgURL":"https://play-lh.googleusercontent.com/lYBiVcSSQ-91Da5yCTigk-fEqMJvJVGcqyavToMp6vyRASr0k66zQGx-wiSVS_SLhKw=s80"
+},
+{
+"name": "Play Cricket Quiz & Win Now",
+"playstorLink": "https://1373.win.qureka.com",
+"imgURL": "https://myplayquize.s3.us-west-1.amazonaws.com/8.png"
+}]
+}
